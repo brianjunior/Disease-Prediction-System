@@ -81,3 +81,4 @@ attrs==23.2.0
  watchdog==4.0.0
 
  streamlit
+ streamlit_option_menu
