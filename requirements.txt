@@ -1,6 +1,6 @@
 altair==5.3.0
 
- [2024-05-20 12:18:45.277999]  attrs==23.2.0
+attrs==23.2.0
 
  blinker==1.8.2
 
@@ -44,7 +44,7 @@ altair==5.3.0
 
  pydeck==0.9.1
 
- pygments[2024-05-20 12:18:45.278481] ==2.18.0
+ pygments==2.18.0
 
  python-dateutil==2.9.0.post0
 
@@ -79,3 +79,5 @@ altair==5.3.0
  urllib3==2.2.1
 
  watchdog==4.0.0
+
+ streamlit
