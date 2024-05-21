@@ -82,3 +82,4 @@ attrs==23.2.0
 
  streamlit
  streamlit_option_menu
+ sklearn
